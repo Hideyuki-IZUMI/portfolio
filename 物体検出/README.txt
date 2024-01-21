@@ -6,7 +6,7 @@
 2.requirements.txtに従い、Pytorch等のインポートをしてください。
 
 3.検出画像は、runs\detect\exp{x} に保存されています。
-　(元の画像データはimages_resize_0-150です)
+　(元の画像データはimages_resize_0-150です。)
 
 4.ディレクトリidea、best.ptファイルは実行環境です。
 
